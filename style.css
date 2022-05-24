@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: #00ff41;
+}
+
+h1 {
+    font-size: 50px;
+    border: 3px dashed #00ff41;
+    text-align: center;
+}
+
+#card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-bottom:5px solid #00ff41;
+    padding-bottom: 30px;
+}
+
+.result {
+    border: 1px solid #00ff41;
+    text-align: center;
+    margin: 5px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.result:hover {
+    background-color: #00ff41;
+    color: black;
+}
+
+input {
+    background-color: #00ff41;
+    border: 0px;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "game": "Fortnite",
+            "tag": "TPS"
+        },
+        {
+            "game": "GTAV",
+            "tag": "FPS"
+        },
+        {
+            "game": "COD",
+            "tag": "FPS"
+        },
+        {
+            "game": "Uncharted",
+            "tag": "TPS"
+        },
+        {
+            "game": "The Last Of Us",
+            "tag": "TPS"
+        },
+        {
+            "game": "Fallout",
+            "tag": "FPS"
+        },
+        {
+            "game": "SpiderMan",
+            "tag": "TPS"
+        },
+        {
+            "game": "Elden Ring",
+            "tag": "TPS"
+        },
+        {
+            "game": "Ark",
+            "tag": "FPS"
+        },
+        {
+            "game": "RDR2",
+            "tag": "TPS"
+        },
+        {
+            "game": "Breath of The Wild",
+            "tag": "TPS"
+        },
+        {
+            "game": "Battlefiedl2042",
+            "tag": "FPS"
+        }
+
+    ]
+}
